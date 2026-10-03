@@ -1,0 +1,6 @@
+keyboard
+Pillow
+pytesseract
+deep-translator
+pystray
+truststore

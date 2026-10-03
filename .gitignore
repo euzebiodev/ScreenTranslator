@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+data/*.db
+data/ui_settings.json
+build/
+dist/
+build_tess_test/
+packaging/output/
+*.spec
